@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: system_urdf
+    relative_path: urdf/system.urdf.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/KR10_inspector.srdf
+  CONFIG:
+    author_name: Rebecca Moos
+    author_email: rebecca.moos@strath.ac.uk
+    generated_timestamp: 1746536997
